@@ -4,7 +4,7 @@
 
 class Totem {
     constructor() {
-        this.BIN_ID = ''; // Será preenchido pelo localStorage ou definido manualmente
+        this.BIN_ID = '68e38000d0ea881f4097082a'; // Será preenchido pelo localStorage ou definido manualmente
         this.API_URL = 'https://api.jsonbin.io/v3/b/';
         this.storeData = null;
         this.cart = [];
