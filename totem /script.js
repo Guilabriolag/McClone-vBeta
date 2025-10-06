@@ -54,7 +54,7 @@ class Totem {
         }
         
         // Se o BIN_ID ainda não estiver definido (caso o CMS esteja em outro local), defina manualmente aqui
-        // Exemplo: this.BIN_ID = 'SEU_BIN_ID_MANUAL_AQUI'; 
+        // Exemplo: this.BIN_ID = '68e38000d0ea881f4097082a'; 
     }
 
     async fetchStoreData() {
